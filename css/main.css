@@ -1047,6 +1047,45 @@ img {
   border: 3px solid #00094A;
 }
 
+.team__text {
+  width: 488px;
+}
+
+.team__text__top {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  color: #00094A;
+}
+
+.team__text__title {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 15px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 61px;
+  color: #00094A;
+}
+
+.team__text__desc {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #00094A;
+  opacity: 0.8;
+}
+
 .greateful {
   display: -webkit-box;
   display: -ms-flexbox;
